@@ -14,7 +14,8 @@
 - 사용 언어: Python, Amazon RDS (MySQL), Tableau
 
 ## 프로젝트 개요
-![image](https://github.com/user-attachments/assets/637ce249-4522-4790-bb3b-558739ac840e)
+![기사 사진](https://github.com/user-attachments/assets/ca75f48a-b15d-420c-8554-d7850d6bb67f)
+<img src="https://github.com/user-attachments/assets/bf518bd4-3781-416d-80c7-134e576fa691.png", width=200, height=100>
 - “이디야커피는 스타벅스 옆에 있다.”라는 말이 있을 정도로 스타벅스 옆에 위치한다는 의심을 받곤
 하지만, 이디야커피 회장은 공식적인 인터뷰에서 이 사실을 부인한 바 있음.
 - “이디야 커피는 입지 선정을 위해 스타벅스 옆에 위치할까?” 라는 가설을 검증하기 위해 서울시
