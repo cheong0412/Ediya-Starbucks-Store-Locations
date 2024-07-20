@@ -14,13 +14,16 @@
 - 사용 언어: Python, Amazon RDS (MySQL), Tableau
 
 ## 프로젝트 개요
-![기사 사진](https://github.com/user-attachments/assets/ca75f48a-b15d-420c-8554-d7850d6bb67f)
-<img src="https://github.com/user-attachments/assets/bf518bd4-3781-416d-80c7-134e576fa691.png", width=200, height=100>
+
+<img src="https://github.com/user-attachments/assets/44f30ad9-b3ab-4486-97c7-cf12e92c6142.png" width="400" height="200"/>
+
+
+
 - “이디야커피는 스타벅스 옆에 있다.”라는 말이 있을 정도로 스타벅스 옆에 위치한다는 의심을 받곤
 하지만, 이디야커피 회장은 공식적인 인터뷰에서 이 사실을 부인한 바 있음.
 - “이디야 커피는 입지 선정을 위해 스타벅스 옆에 위치할까?” 라는 가설을 검증하기 위해 서울시
 이디야커피와 스타벅스 매장 데이터를 분석하고자 함.
-
+![기사 사진](https://github.com/user-attachments/assets/ca75f48a-b15d-420c-8554-d7850d6bb67f)
 ## 프로젝트 설명
 - 강남구, 관악구, 구로구, 동작구, 마포구, 서대문구, 성북구, 송파구, 영등포구, 용산구, 중랑구에서 스타벅스 매장이 더 많다는 것을 확인할 수 있다.
 - 강서구, 광진구, 양천구는 스타벅스와 이디야 매장의 비율이 비슷한 지역인 것을 확인할 수 있다.
